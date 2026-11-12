@@ -10,7 +10,7 @@ Database kernel engineer. Nine years in software, seven of them inside database 
 
 ## Open source
 
-**Apache HAWQ** - 44 commits, 2019-2020 ([commit history](https://github.com/search?q=repo%3Aapache%2Fhawq+author-email%3Ahouzongtian%40outlook.com&type=commits))
+**Apache HAWQ** - 44 commits, 2019-2020 ([commit history](https://github.com/apache/hawq/commits/master?author=markmonkey))
 
 ORC reader and writer for the vectorized executor (decimal encoding, type checks, null-file handling);
 type-system functions for timestamptz, interval, numeric and bytea; Vector/TupleBatch refactor and group
@@ -22,8 +22,8 @@ aggregation; FlatMemBuf allocation strategy, lock waiter lists and memory accoun
 
 ## About this profile
 
-Most of my work lives in proprietary engines and cannot be published. The commits above predate the
-account in use here, so GitHub links them to an earlier handle; the authored name and address are on
-every commit.
+Most of my work lives in proprietary engines and cannot be published. The commits above were
+authored in 2019-2020 through an earlier handle; GitHub attributes them to this account today, and
+each commit carries the authored name and address.
 
 Contact: markmonkey91@gmail.com
